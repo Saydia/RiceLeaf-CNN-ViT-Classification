@@ -359,6 +359,4 @@ Use Turnitin or similar:
 5. Double-check all citations are valid
 6. Submit to conference by deadline
 
-**File Location**: `c:\Users\ajoys\Downloads\paper\is_cnn_dead_springer.tex`
-
 **Good luck with your submission!** 🚀
